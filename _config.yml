@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 title: Sample site
 github:
   is_project_page: false
